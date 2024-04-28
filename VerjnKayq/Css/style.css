@@ -63,6 +63,7 @@ body {
     position: relative;
 }
 
+
 .hero_area::before {
     content: "";
     position: absolute;
@@ -72,6 +73,7 @@ body {
     height: 100%;
     background: greenyellow;
 }
+
 
 .sub_page .hero_area {
     height: auto;
@@ -232,7 +234,13 @@ a:focus {
 }
 
 /*end header section*/
+
+
+
 /* slider section */
+.kn {
+
+}
 .slider_section {
     height: calc(100% - 80px);
     display: -webkit-box;
